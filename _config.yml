@@ -5,6 +5,9 @@ theme: just-the-docs
 url: https://chipeval.github.io/docs
 
 nav:
+  - title: "New comer training program"
+    url: /
+    
   - title: "Seminar"
     children:
       - title: "250910"
