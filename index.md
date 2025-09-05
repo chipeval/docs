@@ -5,9 +5,9 @@ layout: home
 
 # Problem 1
 The transfer function of a digital filter is expressed as follows:
-```math
+\\
 H(z) = \frac{B(z)}{A(z)} = \frac{b_0+b_1z^{-1}+...+b_{n-1}z^{-(n-1)}+b_nz^{-n}}{a_0+a_1z^{-1}+...+a_{m-1}z^{-(m-1)}+a_mz^{-m}}
-```
+\\
 Accordingly, a filter is usually expressed by two coefficient vectors, $b$ and $a$.
 ```math
 \begin{eqnarray}
