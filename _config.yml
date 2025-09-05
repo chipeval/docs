@@ -11,4 +11,4 @@ nav:
   - title: "Seminar"
     children:
       - title: "250910"
-        url: /docs/Seminar/250910
+        url: /seminar/250910
