@@ -3,3 +3,10 @@ description: Documentation Page for EVALab Members
 theme: just-the-docs
 
 url: https://chipeval.github.io/docs
+
+defaults:
+  - scope:
+      path: "docs"
+      type: "pages"
+    values:
+      layout: "default"
