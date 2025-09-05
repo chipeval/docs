@@ -56,3 +56,8 @@ z(x,y) = C_w\cdot \mathrm{cos}\left(\pi\frac{x^2+y^2}{T}\right) + C_{offset}
 1 & -2 & 1
 \end{bmatrix}
 ```
+
+---
+title: Seminar
+layout: home
+---
