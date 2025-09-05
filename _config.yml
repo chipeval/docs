@@ -4,9 +4,8 @@ theme: just-the-docs
 
 url: https://chipeval.github.io/docs
 
-defaults:
-  - scope:
-      path: "docs"
-      type: "pages"
-    values:
-      layout: "default"
+nav:
+  - title: "Seminar"
+    children:
+      - title: "250910"
+        url: /docs/Seminar/250910
